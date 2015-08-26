@@ -1,2 +1,2 @@
 # celebration
-Just as you see.
+Just as you can see.
